@@ -1,0 +1,1 @@
+Se emplearon dos métodos de respaldo para la base de datos. La recuperación de la misma puede realizarse mediante cualquiera de los dos métodos disponibles: la restauración del archivo .BAK o la ejecución del archivo .SQL.
